@@ -20,6 +20,7 @@ For usability in SQL, the data is divided into two, that is:
 Some query results then transfered into Excel to be cleaned before being imported into Tableau (public).
 
 Query result (Excel)	: https://drive.google.com/drive/folders/1Te29nHmlvCPiBWWWfQPcHhhpqgFJjh76?usp=sharing
+
 Tableau Visualization	: https://public.tableau.com/views/Lesmana-Portfolio_COVIDCases/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Portfolio files in drive: https://drive.google.com/drive/folders/1CGvMSlSpRaN5eW8aGW59CQNkHRnWHpwQ?usp=drive_link
