@@ -1,7 +1,4 @@
-Hi! I am,
-	Name: Lesmana Adhe Wijaya
-	Age : 22 Years old
-I am a fresh graduate student majoring in International Relations studies in UIN Syarif Hidayatullah Jakarta.
+Hi! I am Lesmana Adhe Wijaya and i am a 22-Year-old fresh graduate student majoring in International Relations studies in UIN Syarif Hidayatullah Jakarta.
 Currently, I am developing a skillset related to data analysis in which I have already managed to learn Excel, SQL, and Tableau. 
 
 
@@ -9,7 +6,7 @@ Currently, I am developing a skillset related to data analysis in which I have a
 
 
 Project name	:	COVID-19 Cases
-Source			:	COVID-19 data by Our World in Data (https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv)
+Source		:	COVID-19 data by Our World in Data (https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv)
 Excel Source	:	https://drive.google.com/drive/folders/1xQucvhMOk8HYvmVAi4wIChMxAlGeDyA7?usp=sharing
 
 This is a COVID-19 Cases data exploration project. The data source was downloaded and labeled as 'compact' data by Our World in Data because it contains a complete set
