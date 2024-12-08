@@ -1,5 +1,5 @@
 Hi! I am Lesmana Adhe Wijaya and i am a 22-Year-old fresh graduate student majoring in International Relations studies in UIN Syarif Hidayatullah Jakarta.
-Currently, I am developing a skillset related to data analysis in which I have already managed to learn Excel, SQL, and Tableau. 
+Currently, I am developing a skillset related to data analysis in which I have managed to learn Excel, SQL, and Tableau. 
 
 
 ============================================================================================================================================================================
